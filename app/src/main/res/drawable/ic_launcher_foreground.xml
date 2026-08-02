@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- ornate "L" monogram: tapered vertical stroke with a serif hook at the top -->
+    <path android:fillColor="#F2EFE9"
+        android:pathData="
+            M40,22
+            C40,20 41.5,18.6 43.7,18.2
+            C48,17.4 52.5,18 55.2,20.6
+            C56.6,22 56.3,24.3 54.4,25.1
+            C51.7,26.2 48.6,25.7 46.9,24.4
+            C46,23.7 44.8,23.9 44.6,25.1
+            L44.6,74
+            L44.6,74
+            L38.4,74
+            L38.4,25.4
+            C38.4,24.2 39,23 40,22 Z"/>
+    <!-- horizontal foot of the L, thick and slightly wedge-shaped -->
+    <path android:fillColor="#F2EFE9"
+        android:pathData="
+            M38.4,68
+            L64,68
+            C66.2,68 68,69.8 68,72
+            L68,74.4
+            C68,76.6 66.2,78.4 64,78.4
+            L44.6,78.4
+            C41.2,78.4 38.4,75.6 38.4,72.2
+            Z"/>
+    <!-- swash tail curling off the foot, classic calligraphic flourish -->
+    <path android:fillColor="#F2EFE9"
+        android:pathData="
+            M66,74
+            C74,74.5 80,71 83.6,64.4
+            C85,61.8 87.4,61.4 88.6,63.4
+            C89.6,65.1 89,67.4 87.4,69.8
+            C82.6,77.2 74.8,81 65.6,80.2
+            C63.4,80 62.4,77.8 63.6,76
+            C64.4,74.8 65.1,74 66,74 Z"/>
+    <!-- small ink-drop accent, top right of the stroke -->
+    <path android:fillColor="#8B1A1F"
+        android:pathData="M60,30c0,3.3 -2.7,6 -6,6s-6,-2.7 -6,-6c0,-3.3 6,-10 6,-10s6,6.7 6,10z"/>
+</vector>

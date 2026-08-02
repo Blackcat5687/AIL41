@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_labels"
+        android:title="@string/labels_assign_title"
+        android:icon="@drawable/ic_label"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_pin"
+        android:title="@string/action_pin"
+        android:icon="@drawable/ic_pin_outline"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_archive"
+        android:title="@string/action_archive"
+        android:icon="@drawable/ic_archive"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_delete"
+        android:title="@string/action_delete"
+        android:icon="@drawable/ic_delete"
+        app:showAsAction="always" />
+
+</menu>
